@@ -34,7 +34,7 @@ String imgb64 = img.toB64(); //To get the bare base64 Representation
 String imgDataUri = img.toB64DataUri(); //To get the Data Uri Representation
 ```
 
-## Support
+## 3. Support
 
 The module has been tested with:
 - .jpg
